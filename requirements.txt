@@ -3,3 +3,4 @@ opencv-python-headless
 numpy
 pandas
 gunicorn
+mediapipe==0.10.21
