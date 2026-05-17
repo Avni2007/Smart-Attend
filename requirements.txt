@@ -1,6 +1,6 @@
 flask
+gunicorn
 opencv-python-headless
 numpy
-pandas
-gunicorn
 mediapipe
+face-recognition
