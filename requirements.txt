@@ -1,6 +1,5 @@
-flask
-gunicorn
 opencv-python-headless
-numpy
-mediapipe
 face-recognition
+numpy
+Flask
+gunicorn
